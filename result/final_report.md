@@ -2,11 +2,6 @@
 
 ---
 
-
-<div align="center">
-    <sub>Generated on: {current_date}</sub>
-</div>
-
 <div align="center">
     <sub>⚠️ This content is not intended as investment advice</sub>
 </div>
@@ -63,10 +58,6 @@ While volatility is high during VIX peaks, long-term returns tend to be attracti
 suggesting that VIX can be used as a strategic timing tool.
 
 ---
-
-<div align="center">
-    <sub>Generated on: {current_date}</sub>
-</div>
 
 <div align="center">
     <sub>⚠️ This content is not intended as investment advice</sub>
