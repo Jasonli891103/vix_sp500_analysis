@@ -11,16 +11,18 @@ This repository provides a comprehensive analysis of the VIX Fear Index and its 
 ## 🗂️ Project Structure
 
 ```
-├── data/                         # Historical VIX and S&P 500 data
-├── main/                         # Python scripts for analysis and visualization
-│   └── vix_index.py              # Main analysis script
-├── result/                       # Output images and report
-│   ├── vix_sp500_relationship.png
-│   ├── vix_recovery_analysis.png
-│   ├── vix_future_returns.png
-│   ├── vix_future_returns_comparison.png
-│   └── vix_analysis_report.md
-└── vix_analysis_report.pdf    
+vix_sp500_analysis/
+├── main/
+│   └── vix_index.py      # Main analysis script
+├── data/
+│   ├── ^vix.csv          # VIX index data
+│   └── ^GSPC.csv         # S&P 500 index data
+└── result/
+    ├── vix_sp500_relationship.png
+    ├── vix_recovery_analysis.png
+    ├── vix_future_returns.png
+    ├── vix_future_returns_comparison.png
+    └── vix_analysis_report.md
 ```
 
 ## 📌 Key Features
