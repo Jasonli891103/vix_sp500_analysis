@@ -474,8 +474,8 @@ def generate_report(data, recovery_df, return_results):
         
         report += "\n"
     
-    # 5. Conclusion and Investment Advice
-    report += "## 5. Conclusion and Investment Advice\n"
+    # 5. Conclusion - Only Main Findings (removed Investment Advice)
+    report += "## 5. Conclusion\n"
     
     # Check future returns when VIX is high
     high_vix_returns = {}
@@ -501,15 +501,9 @@ def generate_report(data, recovery_df, return_results):
             break
             
     if long_term_better:
-        report += f"3. **Long-term Investment Advantage**: Investing when VIX is high, long-term (3-5 years) returns significantly higher than other periods.\n"
+        report += f"3. **Long-term Return Characteristics**: Periods following high VIX levels (3-5 years) show significantly higher returns than other periods.\n"
     else:
         report += f"3. **Market Volatility**: VIX peaks usually indicate market severe volatility in the future.\n"
-    
-    report += "\n### Investment Advice:\n"
-    report += "1. **VIX Peak Investment Strategy**: When VIX reaches extremely high level (above 40), consider gradually increasing stock market investment, especially for long-term investors.\n"
-    report += "2. **Risk Control**: Although long-term returns after VIX peaks usually better, investors should still prepare to bear possible continuous decline in the short term.\n"
-    report += "3. **Diversified Investment**: When investing during VIX peaks, it is recommended to diversify investment time, avoiding large-scale investment at once.\n"
-    report += "4. **Long-term Holding**: Analysis shows that investing when VIX peaks requires longer investment period (at least 1-3 years) to get better returns.\n"
     
     # Save report as Markdown file
     with open(os.path.join('result', 'vix_analysis_report.md'), 'w', encoding='utf-8') as f:

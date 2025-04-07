@@ -94,14 +94,8 @@
 | 40-50 | 114.26% | 113.59% | 53.45% | 172.73% | 100.00% | 94 |
 | >50 | 106.62% | 106.04% | 60.61% | 169.03% | 100.00% | 74 |
 
-## 5. Conclusion and Investment Advice
+## 5. Conclusion
 ### Main Findings:
 1. **VIX and Stock Market Negative Correlation**: Analysis confirmed that VIX and stock market show obvious negative correlation.
 2. **Recovery Time Analysis**: After VIX peaks, stock market usually needs 328 days to recover to the level before the peak.
-3. **Long-term Investment Advantage**: Investing when VIX is high, long-term (3-5 years) returns significantly higher than other periods.
-
-### Investment Advice:
-1. **VIX Peak Investment Strategy**: When VIX reaches extremely high level (above 40), consider gradually increasing stock market investment, especially for long-term investors.
-2. **Risk Control**: Although long-term returns after VIX peaks usually better, investors should still prepare to bear possible continuous decline in the short term.
-3. **Diversified Investment**: When investing during VIX peaks, it is recommended to diversify investment time, avoiding large-scale investment at once.
-4. **Long-term Holding**: Analysis shows that investing when VIX peaks requires longer investment period (at least 1-3 years) to get better returns.
+3. **Long-term Return Characteristics**: Periods following high VIX levels (3-5 years) show significantly higher returns than other periods.
