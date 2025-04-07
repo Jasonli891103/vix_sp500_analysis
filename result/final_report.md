@@ -24,7 +24,7 @@
 The VIX and S&P 500 have a moderately negative correlation of -0.4821.  
 When VIX rises, it reflects increased volatility expectations and usually coincides with a falling stock market.
 
-![Recovery Analysis](vix_recovery_analysis.png)
+![Recovery Analysis](vix_sp500_relationship.png)
 
 ---
 
@@ -32,7 +32,7 @@ When VIX rises, it reflects increased volatility expectations and usually coinci
 After VIX spikes, markets experience an average drawdown of -17.33% and take around 328 days to recover.  
 Correlation between VIX and drawdown is 0.5744, and between VIX and recovery time is -0.6645.
 
-![Future Returns](vix_future_returns.png)
+![Future Returns](vix_recovery_analysis.png)
 
 ---
 
@@ -40,7 +40,7 @@ Correlation between VIX and drawdown is 0.5744, and between VIX and recovery tim
 Future returns are higher the longer the holding period and the higher the VIX at entry.  
 High VIX conditions show significantly better long-term performance (up to 100%+ over 5 years).
 
-![Future Returns Comparison](vix_future_returns_comparison.png)
+![Future Returns Comparison](vix_future_returns.png)
 
 ---
 
