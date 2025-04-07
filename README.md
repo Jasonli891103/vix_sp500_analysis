@@ -4,7 +4,7 @@
 <div align="center">
     <sub>⚠️ This content is not intended as investment advice</sub>
 </div>
-
+---
 This repository provides a comprehensive analysis of the VIX Fear Index and its relationship with the S&P 500 Index. It explores how spikes in market volatility, as measured by VIX, affect future returns of the stock market, particularly during times of market stress.
 
 ## 📊 Overview
