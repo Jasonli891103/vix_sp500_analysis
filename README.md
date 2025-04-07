@@ -51,12 +51,6 @@ git clone https://github.com/Jasonli891103/vix_sp500_analysis.git
 cd vix_sp500_analysis
 ```
 
-### Set Up Environment
-Install required libraries:
-```bash
-pip install -r requirements.txt  # (or manually install pandas, matplotlib, seaborn, etc.)
-```
-
 ### Run the Analysis
 ```bash
 cd main
