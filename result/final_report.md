@@ -2,6 +2,15 @@
 
 ---
 
+
+<div align="center">
+    <sub>Generated on: {current_date}</sub>
+</div>
+
+<div align="center">
+    <sub>⚠️ This content is not intended as investment advice</sub>
+</div>
+
 ## 📌 Summary
 - **Analysis Period**: April 5, 2007 to April 15, 2020  
 - **Number of VIX Peaks Identified**: 16  
@@ -57,4 +66,8 @@ suggesting that VIX can be used as a strategic timing tool.
 
 <div align="center">
     <sub>Generated on: {current_date}</sub>
+</div>
+
+<div align="center">
+    <sub>⚠️ This content is not intended as investment advice</sub>
 </div>
